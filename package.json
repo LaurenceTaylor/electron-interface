@@ -1,0 +1,16 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Laurence Taylor",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.6",
+    "mocha": "^6.1.4",
+    "spectron": "^7.0.0"
+  }
+}
